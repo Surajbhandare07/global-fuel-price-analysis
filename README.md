@@ -83,11 +83,3 @@ A Linear Regression model was used to predict petrol prices based on various fac
 
 ---
 
-## 🔗 GitHub Repository
-(Add your GitHub link here)
-
----
-
-## 👤 Author
-Suraj R Bhandare  
-Roll No: 241265
